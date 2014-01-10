@@ -1,0 +1,4 @@
+language: ruby
+bundler_args: --local
+rvm:
+  - ruby-2.0.0
